@@ -1,6 +1,6 @@
 # Portifolio
 
-This portfolio has copyrighted data science and machine learning codes and real examples
+This portfolio has copyrighted data science and machine learning codes for real examples
 
 ## Content
 
