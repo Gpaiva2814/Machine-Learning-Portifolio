@@ -13,6 +13,6 @@ Sales forecasting in the food retail industry is crucial for strategic planning,
 in this code we dealt with data from food retail in general, and within this data there were values ​​related to a specific supermarket network (REDE) that was treated in a separate model.
 
 
-### GTIN Classifier
+### [GTIN Classifier](https://github.com/Gpaiva2814/Machine-Learning-Portifolio/blob/main/GTINClassifier.ipynb)
 In Brazil there is no obligation to present the GTIN on invoices, a classification model based on machine learning that determines the possible GTIN (Global Trade Item Number) of a product from its description becomes useful for the
  correct identification of products, even without this mandatory information. Using the template, companies can keep accurate and reliable records, avoiding potential problems arising from missing information.
