@@ -16,5 +16,10 @@ in this code we dealt with data from food retail in general, and within this dat
 
 
 ### [GTIN Classifier](https://github.com/Gpaiva2814/Machine-Learning-Portifolio/blob/main/GTINClassifier.ipynb)
+
 In Brazil there is no obligation to present the GTIN on invoices, a classification model based on machine learning that determines the possible GTIN (Global Trade Item Number) of a product from its description becomes useful for the
  correct identification of products, even without this mandatory information. Using the template, companies can keep accurate and reliable records, avoiding potential problems arising from missing information.
+
+ ### Market Classification (Section, Basket, Sub-basket)
+
+The division of market classifications into section, basket and sub-basket is fundamental for retail. This structured organization of products brings benefits such as a better shopping experience, performance analysis, strategic decision-making, customization of the product mix and more targeted communication. This division enables efficient management, allowing retailers to meet consumers' needs more effectively and increase their competitiveness in the market.
