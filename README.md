@@ -28,6 +28,8 @@ This comprehensive approach, combining advanced data processing and machine lear
 ###### Model results in production:
 ![Previsao_maio](https://github.com/Gpaiva2814/Machine-Learning-Portifolio/assets/123079404/017d2fd8-a820-4495-830f-40c4a0dae564)
 
+###### MLFLOW metrics in production:
+![ExperimenteDB1](https://github.com/Gpaiva2814/Machine-Learning-Portifolio/assets/123079404/bf849223-7d4c-44d0-931e-0cadebaf837d)
 
 
 ### [GTIN Classifier](https://github.com/Gpaiva2814/Machine-Learning-Portifolio/blob/main/GTINClassifier.ipynb)
