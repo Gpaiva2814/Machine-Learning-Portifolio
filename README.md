@@ -22,6 +22,7 @@ Here's a summary of the tools and libraries used:
 - MLflow: For experiment tracking, model management, and reproducibility.
 - Scikit-learn: For machine learning, including model evaluation and hyperparameter tuning.
 - XGBoost: For building and training the regression model due to its performance and efficiency in handling large datasets.
+- PySpark: For large-scale data processing and efficient dataset manipulations.
 
 This comprehensive approach, combining advanced data processing and machine learning techniques, enabled us to create accurate and reliable sales forecasts for the food retail industry, enhancing strategic decision-making and operational efficiency.
 
