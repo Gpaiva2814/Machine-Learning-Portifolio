@@ -7,7 +7,7 @@ This portfolio has copyrighted data science and machine learning codes for real 
 - Classifier (SVM, PassiveAgressiveClassifier) 
 - Regression (XGBRegressor)
 
-### [Food retail forecast and network REDE](https://github.com/Gpaiva2814/Machine-Learning-Portifolio/blob/main/Previsao_varejoREDE.ipynb)
+### [Food retail forecast and network REDE](https://github.com/Gpaiva2814/Machine-Learning-Portifolio/tree/29667d563b7aa2b68f6d4bc639928fd6bce2f4cc/PrevisaoVarejoSmart)
 
 Sales forecasting in the food retail industry is crucial for strategic planning, enabling better inventory management, resource optimization, and profit maximization. Accurate analysis and data allow for anticipating seasonal demands, adjusting marketing strategies, and providing a more satisfying shopping experience for customers. Sales forecasting is a powerful ally in the quest for efficiency and competitiveness in the food retail sector. In this analysis, we used various powerful tools and packages to ensure accurate forecasts.
 
